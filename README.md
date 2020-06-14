@@ -1,4 +1,4 @@
-# **Horiseon-Refactory**
+# **Responsive Portfolio**
 
 ## **Live Link**
 
@@ -28,3 +28,12 @@ This website details the services offered by the company Horiseon to enhance SEO
 * #### **Name:** Jessica Helft (@KingKitty89)
 * #### **Email:** [jessicahelft@gmail.com](jessicahelft@gmail.com)
 * #### **LinkedIn:** https://www.linkedin.com/in/jessicahelft
+
+## **Screenshots**
+![Demo](./gif/horiseonscreenshot1.png)
+![Demo](./gif/horiseonscreenshot2.png)
+
+ 
+
+## **Tests**
+![Demo](./gif/Horiseon.gif)
